@@ -22,9 +22,11 @@ Allows testing and bug fixes before merging to main. Example: release/1.0.0
 For testing or experimental development.
 Example: test/new-api, experiment/prototype-ui
 
-## 🔹 Git Commands
+## 🟢 Git Commands
 
 Create a new branch:
+
+    git checkout -b branchname
 git checkout -b branchname
 Search for new branches in the repo
 git fetch
